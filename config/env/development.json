@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://meanadmin:<passw0rd>@paulo.mongohq.com:10022/app18300386",
+    "db": "mongodb://heroku:23801534ea37d5059195e1dd4f26baa1@paulo.mongohq.com:10022/app18300386",
     "app": {
         "name": "MEAN - A Modern Stack - Development"
     },
